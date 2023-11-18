@@ -1,2 +1,1 @@
-#Heart Attack Prediction Using Different ML Models
-
+#Heart Attack Prediction
